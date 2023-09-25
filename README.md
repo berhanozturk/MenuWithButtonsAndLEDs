@@ -13,7 +13,5 @@
 
 
 
-
-
-https://github.com/berhanozturk/MenuWithButtonsAndLEDs/assets/109435931/9740f8e7-760b-47dc-a46e-7f5d3f0da058
+https://github.com/berhanozturk/MenuWithButtonsAndLEDs/assets/109435931/0fef2062-23e1-4b84-b8ef-230176f771fb
 
