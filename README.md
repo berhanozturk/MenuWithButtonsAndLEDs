@@ -2,7 +2,7 @@
 
 <img src="https://github.com/berhanozturk/MenuWithButtonsAndLEDs/blob/main/MenuWithButtonsAndLEDs.png">
 
-##Build the Circuit:
+**Build the Circuit**
 
 1 Arduino Uno
 1 16x2 LCD display
