@@ -4,7 +4,7 @@
 
 **Build the Circuit**
 
-1 Arduino Uno
+1 Arduino Uno\n
 1 16x2 LCD display
 2 push buttons
 2 LEDs
