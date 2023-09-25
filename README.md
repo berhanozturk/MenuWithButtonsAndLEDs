@@ -12,6 +12,8 @@
 1 Potentiometer <br>
 
 
-<video width="320" height="240" controls>
-  <source src="https://github.com/berhanozturk/MenuWithButtonsAndLEDs/blob/main/lcd_blink.mp4" type="video/mp4">
-</video>
+
+
+
+https://github.com/berhanozturk/MenuWithButtonsAndLEDs/assets/109435931/9740f8e7-760b-47dc-a46e-7f5d3f0da058
+
